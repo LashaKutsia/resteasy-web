@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <person id="1">
+        <first-name>Giorgi</first-name>
+        <last-name>Katsadze</last-name>
+        <age>33</age>
+    </person>
+    <person id="2">
+        <first-name>LaSha</first-name>
+        <last-name>KuTsia</last-name>
+        <age>19</age>
+    </person>
+    <person id="3">
+        <first-name>Cotne</first-name>
+        <last-name>Aburjania</last-name>
+        <age>20</age>
+    </person>
+    <person id="4">
+        <first-name>Levani</first-name>
+        <last-name>Natsvlishvili</last-name>
+        <age>20</age>
+    </person>
+</persons>
